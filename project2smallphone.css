@@ -1,0 +1,7 @@
+/* SmallPhone CSS */
+
+#navbar ul li a{
+    font-size: 0.6rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+}
